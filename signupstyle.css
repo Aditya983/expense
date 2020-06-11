@@ -1,0 +1,31 @@
+body{
+	background-color: #f1fcf9;
+}
+
+footer{
+   position: fixed;
+   padding: 10px 0;
+   text-align: center;
+   background-color: #101010;
+   color:#9d9d9d;
+   bottom: 0;
+   width: 100%;
+}
+
+.row_style{
+	font-family: Arial;
+	margin-top: 100px;
+	padding-left: 150px;
+	margin-left: 200px;
+	font-size: 15px;
+}
+
+.panel-heading{
+	font-weight: bold;
+	font-size: 20px;
+}
+
+#submitbutton{
+	background-color: #2fb29c;
+	color:#fff;
+}

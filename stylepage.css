@@ -1,0 +1,85 @@
+body{
+   background: url(expense.jpg);
+   background-size: cover;  
+   background-position: center;
+   background-repeat: no-repeat;
+   width: 100%;
+   font-family: arial;
+}
+
+   #banner_image{
+   padding-top: 85px;
+   padding-bottom: 50px; 
+   text-align: center;
+   color: #f0f0f0;
+   
+}
+
+#banner_content{
+   position: relative;
+   padding-top: 4%;
+   padding-bottom: 4%;
+   margin: 12% auto;
+   background-color: rgba(0, 0, 0, 0.7);
+   max-width: 660px;  
+}
+
+footer{
+   position: fixed;
+   padding: 10px 0;
+   text-align: center;
+   background-color: #101010;
+   color:#9d9d9d;
+   bottom: 0;
+   width: 100%;
+}
+
+.btn{
+   background-color: rgb(17,234,185);
+   color: #f0f0f0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
